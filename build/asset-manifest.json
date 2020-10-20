@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/musix/static/js/main.bb8e25ae.chunk.js",
+    "main.js.map": "/musix/static/js/main.bb8e25ae.chunk.js.map",
+    "runtime-main.js": "/musix/static/js/runtime-main.7fcb2515.js",
+    "runtime-main.js.map": "/musix/static/js/runtime-main.7fcb2515.js.map",
+    "static/css/2.16f44cd7.chunk.css": "/musix/static/css/2.16f44cd7.chunk.css",
+    "static/js/2.7ec8d847.chunk.js": "/musix/static/js/2.7ec8d847.chunk.js",
+    "static/js/2.7ec8d847.chunk.js.map": "/musix/static/js/2.7ec8d847.chunk.js.map",
+    "index.html": "/musix/index.html",
+    "precache-manifest.dff9008218000feb57b5d4aa028fdadf.js": "/musix/precache-manifest.dff9008218000feb57b5d4aa028fdadf.js",
+    "service-worker.js": "/musix/service-worker.js",
+    "static/css/2.16f44cd7.chunk.css.map": "/musix/static/css/2.16f44cd7.chunk.css.map",
+    "static/js/2.7ec8d847.chunk.js.LICENSE.txt": "/musix/static/js/2.7ec8d847.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/musix/static/media/1.36cecf1b.jpg",
+    "static/media/index.css": "/musix/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fcb2515.js",
+    "static/css/2.16f44cd7.chunk.css",
+    "static/js/2.7ec8d847.chunk.js",
+    "static/js/main.bb8e25ae.chunk.js"
+  ]
+}
