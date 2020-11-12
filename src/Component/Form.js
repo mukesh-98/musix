@@ -51,9 +51,9 @@ function Form(props) {
 
         }
         if(action === 'login') {
+            localStorage.setItem('isLogin', 'true');
             fire.auth().signInWithEmailAndPassword(user.username, user.password).then(
                 (res) => {
-                    localStorage.setItem('isLogin', 'true');
                     console.log(res);
                     history.push("/home");
                 }

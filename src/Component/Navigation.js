@@ -13,7 +13,7 @@ import AuthGuard from "./AuthGuard";
 
 
 export  default function Nav(props){
-    let auth = false;
+    let auth = null;
     const user =  localStorage.getItem('isLogin');
     console.log(user);
     if(user === 'true'){
