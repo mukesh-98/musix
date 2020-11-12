@@ -16,7 +16,7 @@ export  default function Nav(props){
     let auth = false;
     const user =  localStorage.getItem('isLogin');
     console.log(user);
-    if(user == 'true'){
+    if(user === 'true'){
         auth = true;
     }else{
         auth = false;
